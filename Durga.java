@@ -8,6 +8,6 @@ class Durga
 	System.out.println(c);
 	System.out.println("Hi, Durga");
 	System.out.println("Hey am good");
-	
+	System.out.println("enjoy your self");
 }
 }
